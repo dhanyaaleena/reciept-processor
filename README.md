@@ -23,9 +23,10 @@ First, clone the repository from GitHub:
 ```sh
 git clone https://github.com/dhanyaaleena/receipt-processor.git
 cd receipt-processor
-
+```
 
 ### **2️⃣  Execute the run.sh file**
 ```sh
 chmod +x run.sh
 ./run.sh
+```
